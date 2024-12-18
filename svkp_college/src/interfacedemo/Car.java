@@ -1,7 +1,6 @@
 package interfacedemo;
-
-public class Car implements Vehicle{
-	
+	//implement the interface in a class
+	public class Car implements Vehicle
 	{
 	    private String model;
 	    
@@ -27,4 +26,4 @@ public class Car implements Vehicle{
 
 	}
 
-}
+
