@@ -1,7 +1,7 @@
 package finaldemo;
 
 
-	 class calc //hema
+   class calc 
 	{
 		public void show()
 		{
@@ -9,7 +9,7 @@ package finaldemo;
 		}
 	}
 
-	class adav extends  calc //yasar
+	class adav extends  calc 
 	{
 		public void show()
 		{
